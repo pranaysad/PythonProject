@@ -1,0 +1,24 @@
+Trust is the #1 company value at Salesforce. Salesforce.com hosts web services and applications written by thousands of internal developers and tens of thousands of customers to provide the largest SaaS platform on the planet. The Infrastructure Security team is responsible for building the internal software platform that enhances the security posture of our production systems. Our expanding team is looking for a seasoned Distributed Systems Developer (position level dependent on experience).
+
+Do you have a passion for security and interest in growing as a Cyber Security professional? Do you love agile coding, controlling hyper-scale services and fully owning your service? Then this position is for you!
+
+You will be building the new generation of Salesforce’s security platform, looking at security policy as part of service model, modeling policy control and implementing a hardened and scalable framework for enforcing policies. You will be responsible for designing, implementing and running our fleet of services that enforce the data center security posture. You will unlock security innovation and value by building a fully-automated platform with single-click policy management for tens of thousands of nodes, and services that self-heal and self-optimize.
+
+Requirements:
+5+ years of development experience
+Proficiency in at least one of the following programming languages: Golang, Java, C++, Python, C#
+Mastery of OOO concepts and programming
+Demonstrated understanding of general Unix/Linux systems (e.g., CentOS, RHEL, Solaris, or similar)
+DevOps mindset and strong ownership over owned code (test, monitor, deploy, maintain)
+M.Sc/M.Eng in Computer Science/Engineering or B.A/B.Sc. in same disciplines with the equivalent years of experience.
+Desired Skills/Experience:
+Cloud infrastructure experience in SaaS, PaaS, or IaaS
+Educated in-service operation technologies (Docker, VM, Puppet, AWS)
+Excited by building reliable, self-healing services on unreliable hardware
+Practical experience with pair-programming, agile development, test-driven development, and pattern-based coding (MVCS, CQRS, layered architectures)
+Desired Skills for Specific teams:
+Network Security: Networking, hypervisor/VM security, containers, distributed firewalls, access control, network segmentation
+Host Security: secure boot, code signing, firmware, seLinux, apparmor
+Identity Access Management (IAM): authN/authZ, identity management, access management
+Security Analytics/D&R: threat detection, intrusion detection, big data, deep learning/machine learning,
+PKI/Encryption: PKI, encryption, certificate authentication, LDAP, Active Directory, Open Auth- IDP
